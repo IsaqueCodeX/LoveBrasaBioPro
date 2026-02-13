@@ -1,4 +1,4 @@
-# Obsidian Bio Experience - High Performance Link-in-Bio
+# Love Brasa Steakhouse
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -9,9 +9,9 @@
 
 ## Sobre
 
-Este projeto é uma **Link-in-Bio de Alta Performance** desenvolvida com foco em arquitetura "Bento Grid" e otimização mobile-first. A interface utiliza princípios de design moderno, com animações fluidas via Framer Motion e estilização utilitária com Tailwind CSS, garantindo uma experiência de usuário (UX) premium e responsiva.
+O **Love Brasa Steakhouse** é um projeto desenvolvido para oferecer uma experiência digital premium, refletindo a qualidade e tradição do melhor churrasco de São Paulo. A interface foi projetada com foco em "Appetite Appeal", utilizando um design rústico e elegante que destaca os cortes nobres e o ambiente acolhedor do restaurante.
 
-A estrutura do código segue padrões de **Clean Code** e **SOLID**, com componentes React fortemente tipados e segregados por responsabilidade. O projeto inclui otimizações de SEO local e acessibilidade (WAI-ARIA).
+A aplicação utiliza uma arquitetura moderna e responsiva, garantindo alta performance e uma navegação fluida em qualquer dispositivo. O código segue padrões de **Clean Code** e **SOLID**, com otimizações de SEO e acessibilidade.
 
 ## Instalação
 
@@ -19,7 +19,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/IsaqueCodeX/nome-do-repositorio.git
+git clone https://github.com/IsaqueCodeX/LoveBrasaBioPro.git
 ```
 
 2. Instale as dependências:
